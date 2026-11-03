@@ -22,7 +22,3 @@ Sistema web de gerenciamento clínico desenvolvido como projeto acadêmico. Minh
 **[PackBag](https://github.com/mateuscoelho-design/PI-GRUPO8-SEMESTRE3)**
 
 Projeto acadêmico voltado ao monitoramento de produção e visualização de indicadores. Minha participação foi concentrada na documentação e definição de requisitos, com apoio no desenvolvimento de algumas telas.
-
-### Interesses
-
-Engenharia de Software · Inteligência Artificial · Análise de Dados
